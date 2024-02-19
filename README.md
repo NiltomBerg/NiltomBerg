@@ -38,7 +38,7 @@
       <section>
         <h3>Cursos</h3>
         <p>
-          com determinação eu sigo no caminho de ti.
+          com determinação eu sigo no caminho de T.I.
         </p>
       </section>
       <section>
