@@ -30,7 +30,7 @@
     </header>
     <main>
       <section>
-        <h3>Sobre min</h3>
+        <h3>Sobre mim</h3>
         <p>
           ola sou niltomberg conceição batista  Um estudante do Instituto Federal de Educação Ciência e Tecnologia do Maranhão-IFMA  Campus Açailândia, onde estou cursando informática que é um curso integrado ao ensino médio.
         </p>
