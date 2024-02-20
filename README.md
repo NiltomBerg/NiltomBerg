@@ -11,7 +11,7 @@
       <nav>
       <ul>
         <li>
-          <a href="index.html">sobre min</a>
+          <a href="index.html">sobre mim</a>
         </li>
         <li>
           <a href="projeto.html">projetos</a>
