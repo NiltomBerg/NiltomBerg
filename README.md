@@ -49,7 +49,7 @@
       </section>
     </main>
     <footer>
-      <a href="https://github.com/niltomberg" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/NiltomBerg/NiltomBerg/edit/main/README.md "_blank" rel="noopener noreferrer">
         <img src="./img/GitHub-Mark-ea2971cee799.png"></img>
         <p>github</p>
       </a>
