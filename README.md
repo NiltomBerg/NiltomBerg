@@ -49,7 +49,7 @@
       </section>
     </main>
     <footer>
-      <a href="https://github.com/NiltomBerg/NiltomBerg/edit/main/README.md" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/NiltomBerg/NiltomBerg" target="_blank" rel="noopener noreferrer">
         <img src="./img/GitHub-Mark-ea2971cee799.png"></img>
         <p>github</p>
       </a>
@@ -57,7 +57,7 @@
         <img src="./img/Instagram_logo_2016.svg.png"></img>
         <p>instagram</p>
       </a>
-      <a href="https://www.instagram.com/niltomberg_?igsh=MTd4bnhqaThkM24z" target="_blank" rel="noopener noreferrer">
+      <a href="https:https://www.instagram.com/niltomberg_?igsh=MTd4bnhqaThkM24z=" target="_blank" rel="noopener noreferrer">
         <img src="./img/2048px-LinkedIn_icon.svg.png"></img>
         <p>Intagram</p>
       </a>
